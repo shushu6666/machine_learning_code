@@ -161,7 +161,7 @@ class TRPO:
 
 
 if __name__ == '__main__':
-    num_episodes = 1000
+    num_episodes = 7000
     hidden_dim = 128
     gamma = 0.98
     lmbda = 0.95
